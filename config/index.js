@@ -95,13 +95,13 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "	H（家豪）",
+      id: "oBdbH6MOutDVJE0NwZcvENrnGxps",
+      useTemplateId: "Ef4zquNsxEhaARsVzLFET-tRPbImFfacPVPVJbXdrbs",
+      province: "广东",
+      city: "清远",
+      horoscopeDate: '06-30',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
